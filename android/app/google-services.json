@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436346656285",
+    "project_id": "auction-app-2026-aa939",
+    "storage_bucket": "auction-app-2026-aa939.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436346656285:android:fc14dfc78cb100e7bf18f4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuK8UI9IiOAjbN9YLJQnEaj_h9l5Kg-zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

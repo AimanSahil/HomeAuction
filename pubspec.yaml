@@ -1,0 +1,33 @@
+name: home_auction
+description: Full Firebase Home Auction App
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.20.0
+  cloud_firestore: ^4.15.0
+  firebase_storage: ^11.6.0
+  lottie: ^3.3.3
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/animations/app_icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/animations/app_icon.png
+    - assets/animations/icon.png
+    - assets/animations/
